@@ -44,4 +44,4 @@ I'm a passionate and results-oriented full-stack web developer based in Sheffiel
 - 📧 [Email](mailto:adebayowalid@gmail.com)
 - 💻 [Portfolio](https://walidadebayo.netlify.app)
 - 👔 [LinkedIn](https://www.linkedin.com/in/iamadeal)
-- 🐦 [Twitter]([your-twitter-handle](https://x.com/iamadeal_))
+- 🐦 [Twitter](https://x.com/iamadeal_)
