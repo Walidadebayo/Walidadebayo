@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Walid Adebayo profile views](https://u8views.com/api/v1/github/profiles/105639831/views/day-week-month-total-count.svg)](https://u8views.com/github/Walidadebayo)
-
 <!--
 **Walidadebayo/Walidadebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
