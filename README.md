@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate and results-oriented full-stack web developer based in Sheffield, United Kingdom. I specialize in creating user-friendly and interactive web applications. With a strong foundation in both frontend and backend technologies, I aim to leverage my skills to contribute to collaborative team environments and help organizations achieve their goals. I'm highly motivated to continuously learn and improve, staying up-to-date with the latest technologies and trends in the industry.
+I'm a passionate and results-oriented full-stack web developer based in Sheffield, United Kingdom. I specialize in creating user-friendly and interactive web applications. With a strong foundation in both frontend and backend technologies.
 
 - 📫 How to reach me: adebayowalid@gmail.com
 - 🌍 Portfolio: [walidadebayo.netlify.app](https://walidadebayo.netlify.app)
