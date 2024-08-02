@@ -1,7 +1,5 @@
 # Hi there, I'm Walid Opeyemi Adebayo 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/105639831?v=4)
-
 ## About Me
 
 I'm a passionate and results-oriented full-stack web developer based in Sheffield, United Kingdom. I specialize in creating user-friendly and interactive web applications. With a strong foundation in both frontend and backend technologies.
