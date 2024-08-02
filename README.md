@@ -1,6 +1,6 @@
 # Hi there, I'm Walid Opeyemi Adebayo 👋
 
-![Profile Banner](path_to_your_banner_image)
+![Profile Banner](https://avatars.githubusercontent.com/u/105639831?v=4)
 
 ## About Me
 
