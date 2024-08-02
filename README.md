@@ -1,4 +1,4 @@
-# Hi there, I'm Walid Opeyemi Adebayo 👋
+# Hi there👋
 
 ## About Me
 
