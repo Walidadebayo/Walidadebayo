@@ -18,7 +18,7 @@ I'm a passionate and results-driven full-stack web developer based in Sheffield,
 ### 🔹 **React Video Audio Player** - *Custom Video and Audio Player*
 🔗 [Live Demo](https://react-video-audio-player.vercel.app)  
 📦 Install via NPM: [React Video Audio Player on NPM](https://www.npmjs.com/package/react-video-audio-player)  
-📌 React Video Audio Player is a lightweight, customizable React video player and React audio player that supports video, audio, and streaming playback. Perfect for building modern media applications.
+📌 React Video Audio Player is a lightweight, customizable React video player and React audio player that supports video, audio, and streaming playback. Perfect for building modern media applications.  
 🛠 **Tech Stack**: React.js, HTML, CSS, Tailwind CSS, and TypeScript.
 
 ### 🔹 **AdealTutor** - *Educational Platform*
