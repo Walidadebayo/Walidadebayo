@@ -12,7 +12,7 @@ I'm a passionate and results-driven full-stack web developer based in Sheffield,
 # 🚀 Projects:
 ### 🔹 **VizXpress** - *Multimedia Tools Website*  
 🔗 [Live Demo](https://adealtutor.onrender.com)  
-📌 VizXpress is an online multimedia tool set that provides a variety of media tools (images, videos, audio, and other useful tools) to enhance your content creation experience.
+📌 VizXpress is an online multimedia tool set that provides a variety of media tools (images, videos, audio, and other useful tools) to enhance your content creation experience.  
 🛠 **Tech Stack**: Next.js, React.js, TypeScript, HTML, CSS, Tailwind CSS, Python, Flask, NodeJS, ExpressJS and Hugging Face models
 
 ### 🔹 **React Video Audio Player** - *Custom Video and Audio Player*
@@ -23,17 +23,17 @@ I'm a passionate and results-driven full-stack web developer based in Sheffield,
 
 ### 🔹 **AdealTutor** - *Educational Platform*
 🔗 [Live Demo](https://adealtutor.onrender.com)  
-📌 AdealTutor is an educational platform providing students with access to past exam papers, revision notes, and AI-powered tools for creating flashcards, quizzes, and personalized notes.
+📌 AdealTutor is an educational platform providing students with access to past exam papers, revision notes, and AI-powered tools for creating flashcards, quizzes, and personalized notes.  
 🛠 **Tech Stack**: HTML, CSS, Bootstrap, TailwindCSS, jQuery, Ajax, NodeJS, ExpressJS, EJS, MySQL, MappifySQL , and PassportJS.
 
 ### 🔹 **MappifySQL** - *ORM Library for Node.js & TypeScript*
 📦 Install via NPM: [MappifySQL on NPM](https://www.npmjs.com/package/mappifysql)  
-📌 MappifySQL is a lightweight, easy-to-use Object-Relational Mapping (ORM) library for MySQL databases, designed for use with Node.js. It provides an intuitive, promise-based API for interacting with your MySQL database using JavaScript or TypeScript.
+📌 MappifySQL is a lightweight, easy-to-use Object-Relational Mapping (ORM) library for MySQL databases, designed for use with Node.js. It provides an intuitive, promise-based API for interacting with your MySQL database using JavaScript or TypeScript.  
 🛠 **Tech Stack**: Node.js, JavaScript, MySQL
 
 ### 🔹 **Nasltes** - *Ticket Booking System*
 🔗 [Live Demo](https://nasltes.onrender.com)  
-📌 Nasltes is a ticket booking system made for department of science laboratory technicians at LAUTECH University to enable them to book tickets for their events.
+📌 Nasltes is a ticket booking system made for department of science laboratory technicians at LAUTECH University to enable them to book tickets for their events.  
 🛠 **Tech Stack**: HTML, CSS, Bootstrap, Node.js, Express.js, MySQL, EJS  
 
 ### 🔹 **ArtVibrance** - *Art Showcase Website*
@@ -43,7 +43,7 @@ I'm a passionate and results-driven full-stack web developer based in Sheffield,
 
 ### 🔹 **Alusoft Mall** - *E-Commerce Website*
 🔗 [Live Demo](https://alusoftmall.onrender.com)  
-📌 Alusoft Mall is a comprehensive e-commerce platform that allows users to register, log in, view product details, search for products, browse by category, add items to the cart and wishlist, complete the checkout process, receive order confirmation emails and so much more.
+📌 Alusoft Mall is a comprehensive e-commerce platform that allows users to register, log in, view product details, search for products, browse by category, add items to the cart and wishlist, complete the checkout process, receive order confirmation emails and so much more.  
 🛠 **Tech Stack**: HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, NodeJS, ExpressJS, MySQL, and EJS.
 
 
